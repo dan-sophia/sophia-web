@@ -1,2 +1,5 @@
 # sophia-web
-Sophia web dev assignment
+sophia web dev assignment
+
+IDE used: VSCodium
+Web Browser Used: Google Chrome
